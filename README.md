@@ -1,4 +1,4 @@
-# 👋 Bienvenido a mi GitHub – Javier Ibarra
+# 👋 Bienvenido a mi GitHub
 
 ¡Hola! Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM). Este repositorio sirve como índice general para navegar entre todos mis proyectos, prácticas y ejercicios organizados por área. Desde desarrollo web, bases de datos, Java y scripts, hasta colaboraciones reales.
 
