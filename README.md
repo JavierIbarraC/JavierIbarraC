@@ -100,7 +100,7 @@
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Lenguajes**: Java, SQL, JavaScript, HTML, Bash
 - **Frameworks y herramientas**: React, Git, MySQL, Linux, Windows
